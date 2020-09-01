@@ -1,0 +1,13 @@
+{
+  "name": "GraphQL-Authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/larson-carter/GraphQL-Authentication.git",
+  "author": "Larson Carter <larsoncarter@blazermail.net>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.17.0",
+    "graphql": "^15.3.0",
+    "typescript": "^4.0.2"
+  }
+}
