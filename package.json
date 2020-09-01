@@ -1,6 +1,9 @@
 {
   "name": "GraphQL-Authentication",
   "version": "1.0.0",
+  "scripts": {
+    "serve": "tsc --watch"
+  },
   "main": "index.js",
   "repository": "https://github.com/larson-carter/GraphQL-Authentication.git",
   "author": "Larson Carter <larsoncarter@blazermail.net>",
