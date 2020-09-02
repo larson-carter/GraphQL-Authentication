@@ -1,3 +1,14 @@
 type Query {
+
   helloWorld: String!
+
+  people: [People]
+
+}
+
+type People {
+  firstName: String
+  lastName: String
+  city: String
+  state: String
 }
