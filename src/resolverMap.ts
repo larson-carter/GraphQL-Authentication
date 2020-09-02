@@ -23,7 +23,6 @@ const people = [
     lastName: 'Carter',
     city: 'Jonesboro',
     state: 'Arkansas',
-
   },
   {
     firstName: 'Bubba',
